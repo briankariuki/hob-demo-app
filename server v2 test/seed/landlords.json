@@ -1,0 +1,30 @@
+[
+    {
+        "firstname": "Ezekiel",
+        "secondname": "Opiyo",
+        "email": "opiyoezek@gmai.com",
+        "phonenumber": "+254727453234",
+        "password": "hdjfikkdo"
+    },
+    {
+        "firstname": "Edward",
+        "secondname": "Barnes",
+        "email": "edbarnes@live.com",
+        "phonenumber": "+254712456634",
+        "password": "hshsudofk"
+    },
+    {
+        "firstname": "Housing CP",
+        "secondname": "Nairobi, KE",
+        "email": "houscp@hcpke.com",
+        "phonenumber": "+254727784732",
+        "password": "123445678"
+    },
+    {
+        "firstname": "John",
+        "secondname": "Mboya",
+        "email": "johnmboya@yahoo.com",
+        "phonenumber": "+254778653123",
+        "password": "hhsjdufkkow"
+    }
+]

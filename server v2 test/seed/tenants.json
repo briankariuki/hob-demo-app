@@ -1,0 +1,37 @@
+[
+    {
+        "firstname": "Jonathan",
+        "secondname": "Kimani",
+        "email": "jkimani@outlook.com",
+        "phonenumber": "+254713111222",
+        "password": "12345678"
+    },
+    {
+        "firstname": "Betty",
+        "secondname": "Nyawira",
+        "email": "bettynyawira@gmail.com",
+        "phonenumber": "+254725678987",
+        "password": "1234juik"
+    },
+    {
+        "firstname": "Bondeye",
+        "secondname": "Kenya LTD",
+        "email": "bkltd@gmail.com",
+        "phonenumber": "+254778976353",
+        "password": "jjshsiwkapg"
+    },
+    {
+        "firstname": "Bidco",
+        "secondname": "Kenya LTD",
+        "email": "bkltd@bidcoke.com",
+        "phonenumber": "+254712567211",
+        "password": "637dhduf78"
+    },
+    {
+        "firstname": "Siki",
+        "secondname": "Joseph",
+        "email": "skjoseph@gmail.com",
+        "phonenumber": "+254718444555",
+        "password": "jjshlo898sk"
+    }
+]

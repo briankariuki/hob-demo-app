@@ -1,0 +1,35 @@
+[
+    {
+        "propertyId": "PL1265",
+        "name": "Chasewood Park Apartments",
+        "location": "27 Westlands Avenue, Westlands, Nairobi",
+        "description": "The serviced apartments in Nairobi are well situated in the centre of Westlands away from the hustle and bustle of the city centre yet in the most strategic location. They are a brilliant combination of luxury and convenience offering easy access to major retail and commercial facilities.",
+        "rentalPrice": "Ksh 35000",
+        "propertyWebpageURL": "http://chasewoodpark.co.ke/",
+        "size": "300sq foot",
+        "propertyType": "Apartments, Hotel Suite",
+        "imageURL": "http://chasewoodpark.co.ke/wp-content/uploads/2013/11/luxury-serviced-apartments-2.jpg"
+    },
+    {
+        "propertyId": "PL1287",
+        "name": "Regus - Nairobi, West Midlands Museum Hill",
+        "location": "Purshottam Place, Chiromo Road, West Midlands Museum Hill, Nairobi",
+        "description": "Situated on Chiromo Road, Nairobi Westlands Museum Hill is uniquely positioned to offer the advantages of close proximity to the Nairobi Central Business District and to Westlands. Traditionally Nairobi's social and entertainment centre for expatriates and wealthy Kenyans, Westlands is a lively cluster of shops, restaurants, bars and nightclubs. The centre offers a magnificent view of Nairobi City, Chiromo Forest and Nairobi Arboretum. Its position also avoids the congestion and traffic of the urban environment but is within easy reach by both private and public transport. Major residential estates are within few minutes drive. Nearby are high profile companies, various European embassies and the Rockefeller Foundation. Many international hotels, restaurants and various leisure facilities are near the centre including theatres, cinemas, shops, sporting facilities and The National Museum.",
+        "rentalPrice": "Price On Inquiry",
+        "propertyWebpageURL": "https://www.regus.co.ke/locations/kenya/nairobi/nairobi-west-midlands-museum-hill?utm_source=Google&utm_medium=places&utm_campaign=Kenya",
+        "size": "300sq foot",
+        "propertyType": "Office Spaces",
+        "imageURL": "https://assets.regus.com/images/2032/officespace/2_454x340.jpg"
+    },
+    {
+        "propertyId": "PL1132",
+        "name": "Nomad Lounges - Serviced Offices",
+        "location": "3rd Floor Misha Towers Westlands Road Nairobi KE",
+        "description": "Nomad Lounges is dedicated to bringing bold, creative minds across various disciplines under one roof. We offer spacious, well-designed co-working spaces and serviced offices to suit all needs, from independent focused work to dynamic collaborations. Shared workspaces provide a fantastic opportunity to expand your network of resources. The person you sit across at your flexi-desk could end up being your new designer, developer or even your business partner. Situated in the heart of Westlands, Nomad Lounges is easily accessible from the main highway, and the Central Business District. It is convenient to reach both through public transport system as well as via private cars.We offer several packages to cater for all work and team requirements. Whether you need a private office, boardroom or a space to work surrounded by other active people, we have you covered. You can sit back, focus on your work and let magic happen.",
+        "propertyWebpageURL": "https://nomadlounges.com/",
+        "rentalPrice": "Ksh 40000",
+        "size": "300sq foot",
+        "propertyType": "Office Spaces",
+        "imageURL": "https://nomadlounges.com/wp-content/uploads/2018/11/Coworking-Area-1.png"
+    }
+]
